@@ -11,12 +11,12 @@ function SingleMovies() {
             <p>hbwbebbjcncn</p>
         </header>
         <section id="reviews">
-            <header className="d-flex justify-content-between align-it p-4">
+            <header className="d-flex justify-content-between align-items-center p-4">
                 <h4>community reviews</h4>
             </header>
         </section>
         <footer className="border-top border-1 pt-2 mb-3 d-flex justify-content-end">
-            <Link className="bnt bnt-secondary p-4" to="/"> back to home</Link>
+            <Link className="btn btn-secondary p-4" to="/"> back to home</Link>
         </footer>
         
 

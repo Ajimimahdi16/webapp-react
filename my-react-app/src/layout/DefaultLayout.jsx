@@ -3,7 +3,7 @@ import Header from "../components/Header";
 
 
 
-export default function defaultLayout() {
+export default function DefaultLayout() {
 
     return (
         <>
