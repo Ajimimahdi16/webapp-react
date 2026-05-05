@@ -2,7 +2,6 @@
 import { Link } from "react-router-dom";
 
 function MovieCard({ movies }) {
-  
   const { id, title, director, genre, release_year, abstract, image } = movies;
 
   return (
