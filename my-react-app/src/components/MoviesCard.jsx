@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 
-function MovieCard({ movies = {} }) {
+function MovieCard({ movie = {} }) {
   const { id, title, director, genre, abstract, image } = movies;
 
   return (
